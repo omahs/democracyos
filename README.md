@@ -8,7 +8,7 @@
 [![Dependencies](https://david-dm.org/DemocracyOS/democracyos.svg)](https://david-dm.org/DemocracyOS/democracyos.svg)
 [![Code Climate](https://codeclimate.com/github/DemocracyOS/democracyos/badges/gpa.svg)](https://codeclimate.com/github/DemocracyOS/democracyos)
 
-DemocracyOS is an online space for deliberation and voting on political proposals. It is a platform for a more open and participatory government.The software aims to stimulate better arguments and come to better rulings, as peers.
+DemocracyOS is an online space for deliberation and voting on political proposals. It is a platform for a more open and participatory government. The software aims to stimulate better arguments and come to better rulings, as peers.
 
 ![DemocracyOS](https://cldup.com/5UCVpUnOhO.png)
 
